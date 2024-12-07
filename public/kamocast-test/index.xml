@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>My New Hugo Site - Kamocast-Tests</title>
+        <link>http://localhost:1313/kamocast-test/</link>
+        <description>ハルシネーションラジオのRSS</description>
+        <itunes:image href="" />
+        <itunes:explicit>no</itunes:explicit>
+        
+        <item>
+            <title>エピソード2</title>
+            <description>テスト2回目エピソードです。</description>
+            <link>http://localhost:1313/kamocast-test/episode2/</link>
+            <guid>http://localhost:1313/kamocast-test/episode2/</guid>
+            <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
+            <itunes:duration>12345678</itunes:duration>
+            <enclosure url="http://localhost:1313/kamocast-test/episode2/audio.opus" length="12345678" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>歌ってみたやるかどうか検討</title>
+            <description>初回エピソードです。</description>
+            <link>http://localhost:1313/kamocast-test/episode1/</link>
+            <guid>http://localhost:1313/kamocast-test/episode1/</guid>
+            <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
+            <itunes:duration>12345678</itunes:duration>
+            <enclosure url="http://localhost:1313/kamocast-test/episode1/audio.opus" length="12345678" type="audio/mpeg" />
+        </item>
+        
+    </channel>
+</rss>
