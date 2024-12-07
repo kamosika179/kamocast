@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    <channel>
+        <title>kamocast - Categories</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>ハルシネーションラジオのRSS</description>
+        <itunes:image href="http://localhost:1313/images/test.webp" />
+        <itunes:explicit>no</itunes:explicit>
+        <language>ja-JP</language>
+        <atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" />
+        <itunes:category text="Games &amp; Hobbies" />
+        <itunes:author>かもしか</itunes:author>
+
+        
+    </channel>
 </rss>

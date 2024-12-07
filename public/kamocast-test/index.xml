@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
-        <title>My New Hugo Site - Kamocast-Tests</title>
+        <title>kamocast - Kamocast-Tests</title>
         <link>http://localhost:1313/kamocast-test/</link>
         <description>ハルシネーションラジオのRSS</description>
-        <itunes:image href="" />
+        <itunes:image href="http://localhost:1313/images/test.webp" />
         <itunes:explicit>no</itunes:explicit>
+        <language>ja-JP</language>
+        <atom:link href="http://localhost:1313/kamocast-test/" rel="self" type="application/rss+xml" />
+        <itunes:category text="Games &amp; Hobbies" />
+        <itunes:author>かもしか</itunes:author>
+
         
         <item>
             <title>エピソード2</title>
@@ -14,8 +19,8 @@
             <link>http://localhost:1313/kamocast-test/episode2/</link>
             <guid>http://localhost:1313/kamocast-test/episode2/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
-            <itunes:duration>12345678</itunes:duration>
-            <enclosure url="http://localhost:1313/kamocast-test/episode2/audio.opus" length="12345678" type="audio/mpeg" />
+            <itunes:duration>51:58</itunes:duration>
+            <enclosure url="http://localhost:1313/kamocast-test/episode2/audio.opus" length="51:58" type="audio/mpeg" />
         </item>
         
         <item>
@@ -24,8 +29,8 @@
             <link>http://localhost:1313/kamocast-test/episode1/</link>
             <guid>http://localhost:1313/kamocast-test/episode1/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
-            <itunes:duration>12345678</itunes:duration>
-            <enclosure url="http://localhost:1313/kamocast-test/episode1/audio.opus" length="12345678" type="audio/mpeg" />
+            <itunes:duration>51:58</itunes:duration>
+            <enclosure url="http://localhost:1313/kamocast-test/episode1/audio.opus" length="51:58" type="audio/mpeg" />
         </item>
         
     </channel>

@@ -1,11 +1,16 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n" | safeHTML }}
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
         <title>{{ .Site.Title }} - {{ .Title }}</title>
         <link>{{ .Permalink }}</link>
         <description>{{ .Params.description | default "ハルシネーションラジオのRSS" }}</description>
-        <itunes:image href="{{ .Site.Params.podcastImage }}" />
+        <itunes:image href="{{ .Site.BaseURL }}{{ .Site.Params.podcastImage }}" />
         <itunes:explicit>no</itunes:explicit>
+        <language>ja-JP</language>
+        <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+        <itunes:category text="Games &amp; Hobbies" />
+        <itunes:author>かもしか</itunes:author>
+
         {{ range .Pages }}
         <item>
             <title>{{ .Title }}</title>
