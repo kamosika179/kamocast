@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ/ゲスト回】ドラえもんと敵対したらど～する？#1'
 audioUrl = 'output.opus'
 audioLength = '8:40'
+podcastImage = 'thumb.bmp'
 description = '''
 エイプリルフールネタです。・・・多分
 本当にネタが無くなったら第二回目が更新されるかもしれません

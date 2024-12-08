@@ -16,6 +16,8 @@ https://www.youtube.com/playlist?list=PLXOevnUq_u2UxeDi8ki8pZjUPXYh26xK5
 ＼ハルシネラジオに関するその他情報はここ！(工事中)／
 https://kamocast.forrexlapis.win/hallucination-radio/index.xml
 
+※現状ファイル容量が25MBまでのモノしか上げられないので、長時間のものになるほど音質が悪くなっています・・・
+
 '''
 podcastImage = 'top.jpg'
 author = 'かもしか'
