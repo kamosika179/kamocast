@@ -6,3 +6,4 @@ theme = "podcast-theme"
 [params]
 podcastImage = "images/test.webp"
 author = "かもしか"
+email = "nirai2815@gmail.com"
