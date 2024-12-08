@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.5予告番組”妄想”同時視聴振り返り ！！#12'
 audioUrl = 'output.opus'
 audioLength = '55:47'
+podcastImage = 'thumb.bmp'
 description = '''
 今回の教訓：エンコードをさせながら寝る場合はパソコンがスリープモードにならないように設定してから寝ること！
 

@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.5予告番組”妄想”同時視聴！！！！！！#11'
 audioUrl = 'output.opus'
 audioLength = '1:08:40'
+podcastImage = 'thumb.bmp'
 description = '''
 さっさとパソコンの環境を整えてあげたいですねぇ～～
 あとしゃべれるようになりてぇ！！聞き返すのがこえぇ！！

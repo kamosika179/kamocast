@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.3予告番組妄想同時視聴回！！#7'
 audioUrl = 'output.opus'
 audioLength = '58:08'
+podcastImage = 'thumb.bmp'
 description = '''
 楽しいですよ
 妄想

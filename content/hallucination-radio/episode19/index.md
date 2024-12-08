@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.7予告番組妄想振り返り！！！！【原神】#19'
 audioUrl = 'output.opus'
 audioLength = '47:48'
+podcastImage = 'thumb.bmp'
 description = '''
 だいぶ聞きづらいかも・・・すみません・・・
 

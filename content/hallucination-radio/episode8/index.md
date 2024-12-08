@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.3予告番組妄想振り返り！！＆お財布との相談#8'
 audioUrl = 'output.opus'
 audioLength = '1:20:45'
+podcastImage = 'thumb.bmp'
 description = '''
 興奮しすぎてシステム改善の話するの忘れていた
 

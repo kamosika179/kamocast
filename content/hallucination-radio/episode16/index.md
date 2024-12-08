@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.6予告番組妄想振り返り！＆ 個人的に好きな原神関連作品の紹介！！！【原神】#16'
 audioUrl = 'output.opus'
 audioLength = '2:30:16'
+podcastImage = 'thumb.bmp'
 description = '''
 後から、「あ～～そういえばあれも紹介したいんだった～」ってなっていたりします。
 

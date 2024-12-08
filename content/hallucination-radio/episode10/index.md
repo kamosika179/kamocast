@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.4予告番組妄想振り返り！！！！！！#10'
 audioUrl = 'output.opus'
 audioLength = '1:01:18'
+podcastImage = 'thumb.bmp'
 description = '''
 こちらの音楽を使用せていただきました！
 https://www.youtube.com/watch?v=22-7hDOkOFo

@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.7予告番組妄想同時視聴！！！！【原神】#18'
 audioUrl = 'output.opus'
 audioLength = '1:00:01'
+podcastImage = 'thumb.bmp'
 description = '''
 ニィロウアイドル計画がある前回↓
 

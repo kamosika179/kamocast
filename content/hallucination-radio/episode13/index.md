@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】ver2.0ピノコニー開拓クエストの内容についていけなくなりそうだったのでまとめたいと思って頑張ったけど全然まとまらなかったんだよ【HSR】#13'
 audioUrl = 'output.opus'
 audioLength = '2:17:38'
+podcastImage = 'thumb.bmp'
 description = '''
 ※あとでチャプターを作る
 

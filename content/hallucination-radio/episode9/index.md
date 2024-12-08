@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.4予告番組妄想！＆シュヴルーズを引く！！！たくさん！！！！#9 #9.5'
 audioUrl = 'output.opus'
 audioLength = '1:11:18'
+podcastImage = 'thumb.bmp'
 description = '''
 0:00 予告番組妄想同時視聴
 48:24 ガチャを引く

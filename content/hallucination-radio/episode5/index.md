@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.2魔神任務5幕(ネタバレあり)＆長編世界任務(ネタバレなし)感想を話す！！ #5'
 audioUrl = 'output.opus'
 audioLength = '1:01:38'
+podcastImage = 'thumb.bmp'
 description = '''
 動画が長すぎると色々処理に時間がかかって寝る時間が遅くなりすぎる・・・現在3:55・・・うわーーーん！！！
 

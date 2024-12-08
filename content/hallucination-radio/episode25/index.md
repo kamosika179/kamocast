@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver5.2予告番組妄想同時視聴！！ #25'
 audioUrl = 'output.opus'
 audioLength = '51:59'
+podcastImage = 'thumb.bmp'
 description = '''
 うわ～～～～ん、音割れ～～～～～～～～～～
 

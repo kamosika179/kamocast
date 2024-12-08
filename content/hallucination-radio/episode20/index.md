@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.8予告番組妄想同時視聴！！！！＋シグウィンガチャ【原神】#20'
 audioUrl = 'output.opus'
 audioLength = '1:11:29'
+podcastImage = 'thumb.bmp'
 description = '''
 新鮮！産地直送！！
 

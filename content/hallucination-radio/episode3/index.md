@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.2予告番組妄想同時視聴回！！#3'
 audioUrl = 'output.opus'
 audioLength = '42:53'
+podcastImage = 'thumb.bmp'
 description = '''
 【動画内で紹介した動画】
 ・【原神】ver4.2予告番組(妄想)を見ている体で喋りつつ瞳集めをしているかもしれない

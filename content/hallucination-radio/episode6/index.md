@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】HSRイベント狐斎志異のSNSが面白かったのでアカウントの持ち主を特定します！！！！(0.5~0.3ネタバレ)#6'
 audioUrl = 'output.opus'
 audioLength = '46:28'
+podcastImage = 'thumb.bmp'
 description = '''
 かわいいね
 

@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】綺良々アクスタ届いたよ！！＆ナヴィアを引かねば・・・#8.5'
 audioUrl = 'output.opus'
 audioLength = '1:24:00'
+podcastImage = 'thumb.bmp'
 description = '''
 過去一ラジオじゃなかった気がする
 

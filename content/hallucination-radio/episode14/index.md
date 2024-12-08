@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver4.6予告番組”妄想”同時視聴！！！！！【原神】#14'
 audioUrl = 'output.opus'
 audioLength = '54:21'
+podcastImage = 'thumb.bmp'
 description = '''
 「共感性羞恥」っていう言葉があるらしいですよ？けどよくよく考えてみてほしいんですけど、共感性羞恥って思いっきり感情を動かしてもらえる素晴らしい機会ではないでしょうか？？
 

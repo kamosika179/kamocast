@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】『星空の選択』/オーディブルの勧めなどなど！ #17'
 audioUrl = 'output.opus'
 audioLength = '1:07:55'
+podcastImage = 'thumb.bmp'
 description = '''
 https://youtu.be/zLdadovwDnQ
 ノーカット版

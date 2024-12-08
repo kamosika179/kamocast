@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ_ゲスト回】江戸時代を生きるずんだもんに聞く、モチベーションに関するお話！！#2'
 audioUrl = 'output.opus'
 audioLength = '9:47'
+podcastImage = 'thumb.bmp'
 description = '''
 【使用しているソフト等】
 使うときもあれば使わないときもある

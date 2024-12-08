@@ -4,6 +4,7 @@ draft = false
 title = '☂☔【ハルシネラジオ】ナタ魔神任務1,2幕感想を話すだけ #23 ☂☔'
 audioUrl = 'output.opus'
 audioLength = '33:38'
+podcastImage = 'thumb.bmp'
 description = '''
 ながら作業をしようとして
 敗北した経験多数あり！！！

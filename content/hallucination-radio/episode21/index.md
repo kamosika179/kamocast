@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ】原神ver5.0予告番組妄想同時視聴！！！とちょっとだけガチャ引いた#21'
 audioUrl = 'output.opus'
 audioLength = '2:14:39'
+podcastImage = 'thumb.bmp'
 description = '''
 ああ・・・そうだ・・・SNSの告知的なのもっと頑張ってみようかなっていつも思うんだけど、いつもしゃべるの忘れちゃう・・・概要欄を見直していて気づいた・・・
 
