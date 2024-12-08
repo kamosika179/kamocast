@@ -4,26 +4,532 @@
     <channel>
         <title>ハルシネラジオ</title>
         <link>http://localhost:1313/hallucination-radio/</link>
-        <description>エイプリルフールネタから始まったラジオ</description>
+        <description>
+遊んでいるゲーム(原神)の話などをしています！
+特に関係ない話もします！！
+
+---
+
+＼YouTubeでも配信をしています／
+YouTubeでは話題に合わせて映像が切り替わることもあります！(というかそれ前提になってしまっている回もあります・・・！申し訳ない・・・)
+https://www.youtube.com/playlist?list=PLXOevnUq_u2UxeDi8ki8pZjUPXYh26xK5
+
+＼ハルシネラジオに関するその他情報はここ！(工事中)／
+https://kamocast.forrexlapis.win/hallucination-radio/index.xml
+
+</description>
         <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
         <atom:link href="http://localhost:1313/hallucination-radio/" rel="self" type="application/rss+xml" />
         <itunes:category text="Games &amp;amp; Hobbies" />
         <itunes:author>かもしか</itunes:author>
-        <itunes:email>nirai2815@gmail.com</itunes:email>
+        <itunes:owner>
+			<itunes:name>かもしか</itunes:name>
+			<itunes:email>nirai2815@gmail.com</itunes:email>
+		</itunes:owner>
 
         
         <item>
-            <title>【ハルシネラジオ/ゲスト回】ドラえもんと敵対したらど～する？#1</title>
-            <description>エイプリルフールネタです。・・・多分
-本当にネタが無くなったら第二回目が更新されるかもしれません
+            <title>【ハルシネラジオ】原神ver5.2予告番組妄想同時視聴！！ #25</title>
+            <description>うわ～～～～ん、音割れ～～～～～～～～～～
 
-えーっと本来は「虚無ラジ」というタイトルですが、すでに虚無ラジが存在していることがわかったため、タイトルをあとから変更しております。申し訳ございませんでした。
-
+なんかテンション上がって近づいたり声が大きくなっているのだろうなというのと、やっぱりサ行で上限にかかりがちだったりする気もするからまあその辺をどうにかできれば・・・・
 
 【動画内で紹介した動画】
+https://www.youtube.com/watch?v=MsRpBZi2kXo
+https://www.youtube.com/watch?v=APOD1fmwPaM
+https://www.youtube.com/watch?v=D_R0uDem-Yw
 
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+うたた寝陽気:shimtone,https://dova-s.jp/bgm/play13093.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode25/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode25/</guid>
+            <pubDate>Sun, 03 Nov 2024 19:34:08 JST</pubDate>
+            <itunes:duration>51:59</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode25/output.opus" length="51:59" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.8予告番組妄想同時視聴！！！！＋シグウィンガチャ【原神】#20</title>
+            <description>新鮮！産地直送！！
+
+あれすぎたら・・・あれするので・・・あれですよ！！！
+
+【参考にしたサイト】
+https://animate-genshinex.com/goods/
+
+https://ja.m.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%83%B3%E3%82%B9
+
+https://www.seinan-gu.ac.jp/gp/french_trip/2011/report08.html
+
+https://www.france.fr/ja/article/5-fen-defen-karu-gurasunoxiang-shui-nosubete/#-5
+
+http://www.baikundo.co.jp/wordpress/history_of_fragrance/
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+
+BGM
+
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode20/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode20/</guid>
+            <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
+            <itunes:duration>1:11:29</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode20/output.opus" length="1:11:29" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.6予告番組”妄想”同時視聴！！！！！【原神】#14</title>
+            <description>「共感性羞恥」っていう言葉があるらしいですよ？けどよくよく考えてみてほしいんですけど、共感性羞恥って思いっきり感情を動かしてもらえる素晴らしい機会ではないでしょうか？？
+
+召使参戦、変換前＆編集前
+https://youtu.be/ZuVDpQfdNJs
+
+0:00 挨拶
+1:38 イベント・ストーリー
+21:52 コラボ
+28:13 召使アルレッキーノ性能予想
+37:56 思っていたよりハルシネラジオが見られていることもあって申し訳なくなっている
+39:32 みんなポッドキャストやろう！！！！やって！！！！
+52:49 追記：ボイチェンを使用しました
+
+【参考にしたサイト】
+声質変換：つくよみちゃん公式RVCモデル
+https://tyc.rei-yumesaki.net/work/software/rvc/#toc5
+ちょっとしたネタ芝居中に使用しました！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+観測者たちの部屋:shimtone,https://dova-s.jp/bgm/play13079.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode14/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode14/</guid>
+            <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
+            <itunes:duration>54:21</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode14/output.opus" length="54:21" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ１周年記念！】なぜエイプリルフールに嘘をつかなければならないのか？</title>
+            <description>台本的なものを概要欄に書いておきたかったけどだめっぽかったのでギガファイル便に置いておくことにします・・・
+https://33.gigafile.nu/0709-c02a67ed21dfb3aae675a80554c443c5e
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+うたた寝陽気:shimtone,https://dova-s.jp/bgm/play13093.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/special2024/</link>
+            <guid>http://localhost:1313/hallucination-radio/special2024/</guid>
+            <pubDate>Mon, 01 Apr 2024 19:34:08 JST</pubDate>
+            <itunes:duration>51:59</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/special2024/output.opus" length="51:59" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】ver2.0ピノコニー開拓クエストの内容についていけなくなりそうだったのでまとめたいと思って頑張ったけど全然まとまらなかったんだよ【HSR】#13</title>
+            <description>※あとでチャプターを作る
+
+【チャプター】
+
+0:00 初めに雑談と注意
+7:35 開始、ピノコニーに向かう途中
+13:00 跳躍開始、「夢の地」からの最初の挨拶
+20:45 現実のピノコニー（ホテル・レバリーに到着）
+37:36 夢のピノコニー
+53:02 ホタルの秘密基地に向かう
+1:09:40 本当の夢境（花火）
+1:28:02 夢境ホテル
+1:53:35 続く ー＞サンデー、花火会話
+1:58:53 まとめになっていないまとめ（それぞれの目的など）
+2:07:59 まとめになっていないまとめ（夢、記憶域、夢境、憶質）
+2:09:05 まとめになっていないまとめ（個人的にざっくり注目したいポイント）
+2:13:05 終わり、雑談など
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode13/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode13/</guid>
+            <pubDate>Sun, 24 Mar 2024 19:34:08 JST</pubDate>
+            <itunes:duration>2:17:38</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode13/output.opus" length="2:17:38" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.5予告番組”妄想”同時視聴振り返り ！！#12</title>
+            <description>今回の教訓：エンコードをさせながら寝る場合はパソコンがスリープモードにならないように設定してから寝ること！
+
+【動画内で紹介した動画】
+https://www.youtube.com/watch?v=Fesbk5ELLVc
+
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode12/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode12/</guid>
+            <pubDate>Mon, 11 Mar 2024 19:34:08 JST</pubDate>
+            <itunes:duration>55:47</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode12/output.opus" length="55:47" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.4予告番組妄想振り返り！！！！！！#10</title>
+            <description>こちらの音楽を使用せていただきました！
+https://www.youtube.com/watch?v=22-7hDOkOFo
+
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode10/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode10/</guid>
+            <pubDate>Tue, 30 Jan 2024 19:34:08 JST</pubDate>
+            <itunes:duration>1:01:18</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode10/output.opus" length="1:01:18" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.4予告番組妄想！＆シュヴルーズを引く！！！たくさん！！！！#9 #9.5</title>
+            <description>0:00 予告番組妄想同時視聴
+48:24 ガチャを引く
+
+キモすぎたかも・・・聞き直すがちょっと怖いわぁ～～
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode9/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode9/</guid>
+            <pubDate>Wed, 10 Jan 2024 19:34:08 JST</pubDate>
+            <itunes:duration>1:11:18</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode9/output.opus" length="1:11:18" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】綺良々アクスタ届いたよ！！＆ナヴィアを引かねば・・・#8.5</title>
+            <description>過去一ラジオじゃなかった気がする
+
+エンコードの待ち時間でナヴィアの伝説任務が終わりました
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode8-5/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode8-5/</guid>
+            <pubDate>Thu, 21 Dec 2023 19:34:08 JST</pubDate>
+            <itunes:duration>1:24:00</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode8-5/output.opus" length="1:24:00" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.3予告番組妄想振り返り！！＆お財布との相談#8</title>
+            <description>興奮しすぎてシステム改善の話するの忘れていた
+
+【動画内で紹介した動画】
+・https://youtu.be/sdQIk8G-NZs
+・https://www.youtube.com/watch?v=KrJRhhcq_ek
 
 【参考にしたサイト】
 
@@ -59,9 +565,353 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
+            <link>http://localhost:1313/hallucination-radio/episode8/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode8/</guid>
+            <pubDate>Sat, 09 Dec 2023 19:34:08 JST</pubDate>
+            <itunes:duration>1:20:45</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode8/output.opus" length="1:20:45" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.3予告番組妄想同時視聴回！！#7</title>
+            <description>楽しいですよ
+妄想
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode7/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode7/</guid>
+            <pubDate>Sun, 03 Dec 2023 19:34:08 JST</pubDate>
+            <itunes:duration>58:08</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode7/output.opus" length="58:08" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】HSRイベント狐斎志異のSNSが面白かったのでアカウントの持ち主を特定します！！！！(0.5~0.3ネタバレ)#6</title>
+            <description>かわいいね
+
+https://www.youtube.com/post/Ugkxp_8SojiLBeFQ6P9w4-QsiQIuVjJqM16B
+
+0:00 よくわからないことを喋っている
+4:50 本題に入りそう
+11:08 多分本題
+38:35 フォフォ・・・未所持なんだよな・・・
+44:57 終わり
+
+
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode6/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode6/</guid>
+            <pubDate>Sun, 19 Nov 2023 19:34:08 JST</pubDate>
+            <itunes:duration>46:28</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode6/output.opus" length="46:28" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.2魔神任務5幕(ネタバレあり)＆長編世界任務(ネタバレなし)感想を話す！！ #5</title>
+            <description>動画が長すぎると色々処理に時間がかかって寝る時間が遅くなりすぎる・・・現在3:55・・・うわーーーん！！！
+
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode5/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode5/</guid>
+            <pubDate>Mon, 13 Nov 2023 19:34:08 JST</pubDate>
+            <itunes:duration>1:01:38</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode5/output.opus" length="1:01:38" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.2予告番組を見たあとに妄想を振り返る！！&#43;ちょっとフリーナエピソードの感想 #4</title>
+            <description>全休のソリスト・かもしか
+「今、我がネタはすべて散り果てた。」
+「お願いだ 。情熱によって、動画の投稿を再開してくれ！」
+「娯楽に囚われたこの身を、独りぼっちでサボらせないでくれ...」
+「――ほんの小さなモチベーションを捧げる。」
+
+【動画内で紹介した動画】
+https://www.youtube.com/watch?v=IaCt0GL94SM
+いいよねぇ・・・魔神任務楽しみです
+
+そんなこと言ってる場合じゃないよ！！！動画作ってよ！！！ねぇ！！！！！
+
+
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode4/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode4/</guid>
+            <pubDate>Mon, 06 Nov 2023 19:34:08 JST</pubDate>
+            <itunes:duration>23:23</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode4/output.opus" length="23:23" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.2予告番組妄想同時視聴回！！#3</title>
+            <description>【動画内で紹介した動画】
+・【原神】ver4.2予告番組(妄想)を見ている体で喋りつつ瞳集めをしているかもしれない
+https://www.youtube.com/watch?v=m0CmdtjIfhE
+ダウンロードすることができなかった配信です。
+
+
+気がついたら合計で２時間位喋っているのか・・・配信含めると・・・すごいな・・・
+
+来週は動画が上がるといいですね
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode3/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode3/</guid>
+            <pubDate>Mon, 30 Oct 2023 19:34:08 JST</pubDate>
+            <itunes:duration>42:53</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode3/output.opus" length="42:53" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ_ゲスト回】江戸時代を生きるずんだもんに聞く、モチベーションに関するお話！！#2</title>
+            <description>【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode2/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode2/</guid>
+            <pubDate>Mon, 17 Jul 2023 19:34:08 JST</pubDate>
+            <itunes:duration>9:47</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode2/output.opus" length="9:47" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ/ゲスト回】ドラえもんと敵対したらど～する？#1</title>
+            <description>エイプリルフールネタです。・・・多分
+本当にネタが無くなったら第二回目が更新されるかもしれません
+
+えーっと本来は「虚無ラジ」というタイトルですが、すでに虚無ラジが存在していることがわかったため、タイトルをあとから変更しております。申し訳ございませんでした。
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
             <link>http://localhost:1313/hallucination-radio/episode1/</link>
             <guid>http://localhost:1313/hallucination-radio/episode1/</guid>
-            <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
+            <pubDate>Sat, 01 Apr 2023 19:34:08 JST</pubDate>
             <itunes:duration>8:40</itunes:duration>
             
                 <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />

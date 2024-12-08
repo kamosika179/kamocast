@@ -11,7 +11,10 @@
         <atom:link href="http://localhost:1313/kamocast-test/" rel="self" type="application/rss+xml" />
         <itunes:category text="Games &amp;amp; Hobbies" />
         <itunes:author>かもしか</itunes:author>
-        <itunes:email>nirai2815@gmail.com</itunes:email>
+        <itunes:owner>
+			<itunes:name>かもしか</itunes:name>
+			<itunes:email>nirai2815@gmail.com</itunes:email>
+		</itunes:owner>
 
         
         <item>

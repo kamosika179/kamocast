@@ -11,12 +11,28 @@
         <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
         <itunes:category text="" />
         <itunes:author></itunes:author>
-        <itunes:email>nirai2815@gmail.com</itunes:email>
+        <itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email>nirai2815@gmail.com</itunes:email>
+		</itunes:owner>
 
         
         <item>
             <title>ハルシネラジオ</title>
-            <description>エイプリルフールネタから始まったラジオ</description>
+            <description>
+遊んでいるゲーム(原神)の話などをしています！
+特に関係ない話もします！！
+
+---
+
+＼YouTubeでも配信をしています／
+YouTubeでは話題に合わせて映像が切り替わることもあります！(というかそれ前提になってしまっている回もあります・・・！申し訳ない・・・)
+https://www.youtube.com/playlist?list=PLXOevnUq_u2UxeDi8ki8pZjUPXYh26xK5
+
+＼ハルシネラジオに関するその他情報はここ！(工事中)／
+https://kamocast.forrexlapis.win/hallucination-radio/index.xml
+
+</description>
             <link>http://localhost:1313/hallucination-radio/</link>
             <guid>http://localhost:1313/hallucination-radio/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
