@@ -2,41 +2,42 @@
 
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
-        <title>kamocast - kamocast</title>
-        <link>//localhost:1313/</link>
+        <title>kamocast</title>
+        <link>http://localhost:1313/</link>
         <description>ハルシネーションラジオのRSS</description>
-        <itunes:image href="//localhost:1313/" />
+        <itunes:image href="http://localhost:1313/" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
-        <atom:link href="//localhost:1313/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
         <itunes:category text="" />
         <itunes:author></itunes:author>
+        <itunes:email>nirai2815@gmail.com</itunes:email>
 
         
         <item>
             <title>ハルシネラジオ</title>
             <description>エイプリルフールネタから始まったラジオ</description>
-            <link>//localhost:1313/hallucination-radio/</link>
-            <guid>//localhost:1313/hallucination-radio/</guid>
+            <link>http://localhost:1313/hallucination-radio/</link>
+            <guid>http://localhost:1313/hallucination-radio/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
             <itunes:duration></itunes:duration>
             
-                <itunes:image href="//localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
             
-            <enclosure url="//localhost:1313/hallucination-radio/%25!s%28%3cnil%3e%29" length="" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/%25!s%28%3cnil%3e%29" length="" type="audio/mpeg" />
         </item>
         
         <item>
             <title>ハルシネラジオ(テスト編)</title>
             <description>「ポッドキャスト」をRSS経由で配信するテストのために作成されたシリーズ</description>
-            <link>//localhost:1313/kamocast-test/</link>
-            <guid>//localhost:1313/kamocast-test/</guid>
+            <link>http://localhost:1313/kamocast-test/</link>
+            <guid>http://localhost:1313/kamocast-test/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
             <itunes:duration></itunes:duration>
             
-                <itunes:image href="//localhost:1313/kamocast-test/test.webp" />
+                <itunes:image href="http://localhost:1313/kamocast-test/test.webp" />
             
-            <enclosure url="//localhost:1313/kamocast-test/%25!s%28%3cnil%3e%29" length="" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/kamocast-test/%25!s%28%3cnil%3e%29" length="" type="audio/mpeg" />
         </item>
         
     </channel>

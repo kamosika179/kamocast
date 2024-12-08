@@ -2,15 +2,16 @@
 
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
-        <title>kamocast - ハルシネラジオ</title>
-        <link>//localhost:1313/hallucination-radio/</link>
+        <title>ハルシネラジオ</title>
+        <link>http://localhost:1313/hallucination-radio/</link>
         <description>エイプリルフールネタから始まったラジオ</description>
-        <itunes:image href="//localhost:1313/hallucination-radio/top.jpg" />
+        <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
-        <atom:link href="//localhost:1313/hallucination-radio/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/hallucination-radio/" rel="self" type="application/rss+xml" />
         <itunes:category text="Games &amp;amp; Hobbies" />
         <itunes:author>かもしか</itunes:author>
+        <itunes:email>nirai2815@gmail.com</itunes:email>
 
         
         <item>
@@ -58,14 +59,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>//localhost:1313/hallucination-radio/episode1/</link>
-            <guid>//localhost:1313/hallucination-radio/episode1/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode1/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode1/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
             <itunes:duration>8:40</itunes:duration>
             
-                <itunes:image href="//localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
             
-            <enclosure url="//localhost:1313/hallucination-radio/episode1/output.opus" length="8:40" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode1/output.opus" length="8:40" type="audio/mpeg" />
         </item>
         
     </channel>
