@@ -4,12 +4,12 @@
         <title>{{ .Site.Title }} - {{ .Title }}</title>
         <link>{{ .Permalink }}</link>
         <description>{{ .Params.description | default "ハルシネーションラジオのRSS" }}</description>
-        <itunes:image href="{{ .Site.BaseURL }}{{ .Site.Params.podcastImage }}" />
+        <itunes:image href="{{ .Permalink }}{{ $.Params.podcastImage }}" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
         <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
-        <itunes:category text="Games &amp; Hobbies" />
-        <itunes:author>かもしか</itunes:author>
+        <itunes:category text="{{ .Params.category }}" />
+        <itunes:author>{{ .Params.author }}</itunes:author>
 
         {{ range .Pages }}
         <item>
@@ -19,6 +19,11 @@
             <guid>{{ .Permalink }}</guid>
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
             <itunes:duration>{{ .Params.audioLength }}</itunes:duration>
+            {{ if .Params.podcastImage }}
+                <itunes:image href="{{ .Permalink }}{{ .Params.podcastImage }}" />
+            {{ else }}
+                <itunes:image href="{{ $.Permalink }}{{ $.Params.podcastImage }}" />
+            {{ end }}
             <enclosure url="{{ printf "%s%s" .Permalink .Params.audioUrl }}" length="{{ .Params.audioLength }}" type="audio/mpeg" />
         </item>
         {{ end }}

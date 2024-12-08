@@ -1,7 +1,8 @@
-baseURL = 'https://kamocast.pages.dev/'
-languageCode = 'en-us'
+baseURL = 'kamocast.forrexlapis.win'
+languageCode = 'ja-JP'
 title = 'kamocast'
 theme = "podcast-theme"
 
 [params]
 podcastImage = "images/test.webp"
+author = "かもしか"
