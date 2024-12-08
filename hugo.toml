@@ -1,4 +1,4 @@
-baseURL = 'kamocast.forrexlapis.win'
+baseURL = 'https://kamocast.forrexlapis.win/'
 languageCode = 'ja-JP'
 title = 'kamocast'
 theme = "podcast-theme"
