@@ -1,10 +1,10 @@
 +++
 date = '2023-07-17T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ_ゲスト回】江戸時代を生きるずんだもんに聞く、モチベーションに関するお話！！#2'
+title = '【ゲスト回】江戸時代を生きるずんだもんに聞く、モチベーションに関するお話！！#2'
 audioUrl = 'output.opus'
 audioLength = '9:47'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 【使用しているソフト等】
 使うときもあれば使わないときもある
@@ -39,4 +39,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[【ゲスト回】江戸時代を生きるずんだもんに聞く、モチベーションに関するお話！！#2](https://youtu.be/OwM5pndb97E)

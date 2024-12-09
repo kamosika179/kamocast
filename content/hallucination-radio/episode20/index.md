@@ -1,10 +1,10 @@
 +++
 date = '2024-06-30T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.8予告番組妄想同時視聴！！！！＋シグウィンガチャ【原神】#20'
+title = '原神ver4.8予告番組妄想同時視聴！！！！＋シグウィンガチャ【原神】#20'
 audioUrl = 'output.opus'
 audioLength = '1:11:29'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 新鮮！産地直送！！
 
@@ -69,4 +69,5 @@ VOICEVOX:四国めたん
 '''
 +++
 
+[原神ver4.8予告番組妄想同時視聴！！！！＋シグウィンガチャ【原神】#20](https://youtu.be/Vb0-kGCNSFM)
 

@@ -1,10 +1,10 @@
 +++
 date = '2024-04-07T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.6予告番組”妄想”同時視聴！！！！！【原神】#14'
+title = '原神ver4.6予告番組”妄想”同時視聴！！！！！【原神】#14'
 audioUrl = 'output.opus'
 audioLength = '54:21'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 「共感性羞恥」っていう言葉があるらしいですよ？けどよくよく考えてみてほしいんですけど、共感性羞恥って思いっきり感情を動かしてもらえる素晴らしい機会ではないでしょうか？？
 
@@ -58,4 +58,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.6予告番組”妄想”同時視聴！！！！！【原神】#14](https://youtu.be/TqmmyecDjsM)

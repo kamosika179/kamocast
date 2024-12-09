@@ -1,10 +1,10 @@
 +++
 date = '2024-11-03T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver5.2予告番組妄想同時視聴！！ #25'
+title = '原神ver5.2予告番組妄想同時視聴！！ #25'
 audioUrl = 'output.opus'
 audioLength = '51:59'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 うわ～～～～ん、音割れ～～～～～～～～～～
 
@@ -59,4 +59,4 @@ SE等
 '''
 +++
 
-
+[原神ver5.2予告番組妄想同時視聴！！ #25](https://youtu.be/g02x0OeJ1KY)

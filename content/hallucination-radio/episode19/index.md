@@ -1,10 +1,10 @@
 +++
 date = '2024-04-07T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.7予告番組妄想振り返り！！！！【原神】#19'
+title = '原神ver4.7予告番組妄想振り返り！！！！【原神】#19'
 audioUrl = 'output.opus'
 audioLength = '47:48'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 だいぶ聞きづらいかも・・・すみません・・・
 
@@ -39,4 +39,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.7予告番組妄想振り返り！！！！【原神】#19](https://youtu.be/VfD1F3Ss53g)

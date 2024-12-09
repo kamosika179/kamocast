@@ -1,10 +1,10 @@
 +++
 date = '2023-12-09T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.3予告番組妄想振り返り！！＆お財布との相談#8'
+title = '原神ver4.3予告番組妄想振り返り！！＆お財布との相談#8'
 audioUrl = 'output.opus'
 audioLength = '1:20:45'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 興奮しすぎてシステム改善の話するの忘れていた
 
@@ -48,4 +48,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.3予告番組妄想振り返り！！＆お財布との相談#8](https://youtu.be/beSPaVilabo)

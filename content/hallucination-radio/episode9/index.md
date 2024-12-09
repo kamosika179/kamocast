@@ -1,10 +1,10 @@
 +++
 date = '2024-01-10T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.4予告番組妄想！＆シュヴルーズを引く！！！たくさん！！！！#9 #9.5'
+title = '原神ver4.4予告番組妄想！＆シュヴルーズを引く！！！たくさん！！！！#9 #9.5'
 audioUrl = 'output.opus'
 audioLength = '1:11:18'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 0:00 予告番組妄想同時視聴
 48:24 ガチャを引く
@@ -44,4 +44,5 @@ VOICEVOX:四国めたん
 '''
 +++
 
+[原神ver4.4予告番組妄想！＆シュヴルーズを引く！！！たくさん！！！！#9 #9.5](https://youtu.be/yHlFCbigvRw)
 

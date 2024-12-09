@@ -1,10 +1,10 @@
 +++
 date = '2024-06-30T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver5.1予告番組妄想同時視聴！！ #24'
+title = '原神ver5.1予告番組妄想同時視聴！！ #24'
 audioUrl = 'output.opus'
 audioLength = '34:55'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 敗北しました・・・
 
@@ -61,4 +61,4 @@ SE等
 '''
 +++
 
-
+[原神ver5.1予告番組妄想同時視聴！！ #24](https://youtu.be/KSQSnU9S8s4)

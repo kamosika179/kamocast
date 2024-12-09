@@ -1,10 +1,10 @@
 +++
 date = '2023-10-30T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.2予告番組妄想同時視聴回！！#3'
+title = '原神ver4.2予告番組妄想同時視聴回！！#3'
 audioUrl = 'output.opus'
 audioLength = '42:53'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 【動画内で紹介した動画】
 ・【原神】ver4.2予告番組(妄想)を見ている体で喋りつつ瞳集めをしているかもしれない
@@ -49,4 +49,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.2予告番組妄想同時視聴回！！#3](https://youtu.be/vdKMveI6pg0)

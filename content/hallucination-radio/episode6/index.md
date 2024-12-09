@@ -1,10 +1,10 @@
 +++
 date = '2023-11-19T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】HSRイベント狐斎志異のSNSが面白かったのでアカウントの持ち主を特定します！！！！(0.5~0.3ネタバレ)#6'
+title = 'HSRイベント狐斎志異のSNSが面白かったのでアカウントの持ち主を特定します！！！！(0.5~0.3ネタバレ)#6'
 audioUrl = 'output.opus'
 audioLength = '46:28'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 かわいいね
 
@@ -48,3 +48,4 @@ BGMはDovaで配布されているものを使用することが多いです
 +++
 
 
+[HSRイベント狐斎志異のSNSが面白かったのでアカウントの持ち主を特定します！！！！(0.5~0.3ネタバレ)#6](https://youtu.be/9fiWzUJ48fs)

@@ -1,10 +1,10 @@
 +++
 date = '2024-04-07T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】『星空の選択』/オーディブルの勧めなどなど！ #17'
+title = '『星空の選択』/オーディブルの勧めなどなど！ #17'
 audioUrl = 'output.opus'
 audioLength = '1:07:55'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 https://youtu.be/zLdadovwDnQ
 ノーカット版
@@ -39,4 +39,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[『星空の選択』/オーディブルの勧めなどなど！ #17](https://youtu.be/1IrwoSz1CBc)

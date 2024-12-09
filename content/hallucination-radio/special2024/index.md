@@ -4,7 +4,7 @@ draft = false
 title = '【ハルシネラジオ１周年記念！】なぜエイプリルフールに嘘をつかなければならないのか？'
 audioUrl = 'output.opus'
 audioLength = '51:59'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 台本的なものを概要欄に書いておきたかったけどだめっぽかったのでギガファイル便に置いておくことにします・・・
 https://33.gigafile.nu/0709-c02a67ed21dfb3aae675a80554c443c5e
@@ -42,4 +42,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[【ハルシネラジオ１周年記念！】なぜエイプリルフールに嘘をつかなければならないのか？](https://youtu.be/vx9_fpAouiI)

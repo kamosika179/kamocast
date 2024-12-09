@@ -1,10 +1,10 @@
 +++
 date = '2024-06-30T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver5.0予告番組妄想同時視聴！！！とちょっとだけガチャ引いた#21'
+title = '原神ver5.0予告番組妄想同時視聴！！！とちょっとだけガチャ引いた#21'
 audioUrl = 'output.opus'
 audioLength = '2:14:39'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 ああ・・・そうだ・・・SNSの告知的なのもっと頑張ってみようかなっていつも思うんだけど、いつもしゃべるの忘れちゃう・・・概要欄を見直していて気づいた・・・
 
@@ -59,4 +59,4 @@ Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
 '''
 +++
 
-
+[原神ver5.0予告番組妄想同時視聴！！！とちょっとだけガチャ引いた#21](https://youtu.be/8coD4cy01v4)

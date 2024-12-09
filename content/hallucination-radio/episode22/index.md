@@ -1,10 +1,10 @@
 +++
 date = '2024-06-30T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver5.0予告番組妄想の振り返り！！#22'
+title = '原神ver5.0予告番組妄想の振り返り！！#22'
 audioUrl = 'output.opus'
 audioLength = '38:35'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 そういえば、妄想のサムネイルのキャラの立ち位置と、公式配信のキャラの立ち位置がほぼ一致していて密かに喜んでいました
 
@@ -55,4 +55,4 @@ SE等
 '''
 +++
 
-
+[原神ver5.0予告番組妄想の振り返り！！#22](https://youtu.be/bDR5HawmVJ4)

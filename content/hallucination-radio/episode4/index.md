@@ -1,7 +1,7 @@
 +++
 date = '2023-11-06T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.2予告番組を見たあとに妄想を振り返る！！+ちょっとフリーナエピソードの感想 #4'
+title = '原神ver4.2予告番組を見たあとに妄想を振り返る！！+ちょっとフリーナエピソードの感想 #4'
 audioUrl = 'output.opus'
 audioLength = '23:23'
 podcastImage = 'thumb.bmp'
@@ -53,4 +53,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.2予告番組を見たあとに妄想を振り返る！！+ちょっとフリーナエピソードの感想 #4](https://youtu.be/My0TvhCNxQ4)

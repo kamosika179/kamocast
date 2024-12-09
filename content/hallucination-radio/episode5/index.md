@@ -1,10 +1,10 @@
 +++
 date = '2023-11-13T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.2魔神任務5幕(ネタバレあり)＆長編世界任務(ネタバレなし)感想を話す！！ #5'
+title = '原神ver4.2魔神任務5幕(ネタバレあり)＆長編世界任務(ネタバレなし)感想を話す！！ #5'
 audioUrl = 'output.opus'
 audioLength = '1:01:38'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 動画が長すぎると色々処理に時間がかかって寝る時間が遅くなりすぎる・・・現在3:55・・・うわーーーん！！！
 
@@ -42,4 +42,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.2魔神任務5幕(ネタバレあり)＆長編世界任務(ネタバレなし)感想を話す！！ #5](https://youtu.be/N87Cu9afkdw)

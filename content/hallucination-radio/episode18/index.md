@@ -1,10 +1,10 @@
 +++
 date = '2024-04-07T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.7予告番組妄想同時視聴！！！！【原神】#18'
+title = '原神ver4.7予告番組妄想同時視聴！！！！【原神】#18'
 audioUrl = 'output.opus'
 audioLength = '1:00:01'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 ニィロウアイドル計画がある前回↓
 
@@ -49,4 +49,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.7予告番組妄想同時視聴！！！！【原神】#18](https://youtu.be/VfD1F3Ss53g)

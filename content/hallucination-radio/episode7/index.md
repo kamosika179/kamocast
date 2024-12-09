@@ -1,10 +1,10 @@
 +++
 date = '2023-12-03T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.3予告番組妄想同時視聴回！！#7'
+title = '原神ver4.3予告番組妄想同時視聴回！！#7'
 audioUrl = 'output.opus'
 audioLength = '58:08'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 楽しいですよ
 妄想
@@ -42,4 +42,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.3予告番組妄想同時視聴回！！#7](https://youtu.be/sdQIk8G-NZs)

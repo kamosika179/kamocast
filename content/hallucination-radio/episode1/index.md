@@ -1,10 +1,10 @@
 +++
 date = '2023-04-01T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ/ゲスト回】ドラえもんと敵対したらど～する？#1'
+title = '【ゲスト回】ドラえもんと敵対したらど～する？#1'
 audioUrl = 'output.opus'
 audioLength = '8:40'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 エイプリルフールネタです。・・・多分
 本当にネタが無くなったら第二回目が更新されるかもしれません
@@ -44,4 +44,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[【ゲスト回】ドラえもんと敵対したらど～する？#1](https://youtu.be/RmiNHZbBKXs)

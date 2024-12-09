@@ -17,6 +17,8 @@ https://www.youtube.com/playlist?list=PLXOevnUq_u2UxeDi8ki8pZjUPXYh26xK5
 ＼ハルシネラジオに関するその他情報はここ！(工事中)／
 https://kamocast.forrexlapis.win/hallucination-radio/index.xml
 
+※現状ファイル容量が25MBまでのモノしか上げられないので、長時間のものになるほど音質が悪くなっています・・・
+
 </description>
         <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
         <itunes:explicit>no</itunes:explicit>
@@ -88,7 +90,7 @@ SE等
             <pubDate>Sun, 03 Nov 2024 19:34:08 JST</pubDate>
             <itunes:duration>51:59</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode25/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode25/output.opus" length="51:59" type="audio/mpeg" />
         </item>
@@ -161,9 +163,298 @@ VOICEVOX:四国めたん
             <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:11:29</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode20/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode20/output.opus" length="1:11:29" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver5.0予告番組妄想の振り返り！！#22</title>
+            <description>そういえば、妄想のサムネイルのキャラの立ち位置と、公式配信のキャラの立ち位置がほぼ一致していて密かに喜んでいました
+
+・・・あと、またSNSの告知をするのを忘れていた・・・
+
+【動画内で紹介した動画】
+https://www.youtube.com/watch?v=nM8S2D3hDvc
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode22/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode22/</guid>
+            <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
+            <itunes:duration>38:35</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode22/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode22/output.opus" length="38:35" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver5.0予告番組妄想同時視聴！！！とちょっとだけガチャ引いた#21</title>
+            <description>ああ・・・そうだ・・・SNSの告知的なのもっと頑張ってみようかなっていつも思うんだけど、いつもしゃべるの忘れちゃう・・・概要欄を見直していて気づいた・・・
+
+【動画内で紹介した動画】
+
+https://www.youtube.com/watch?v=q__fo0CSEcE
+
+https://www.youtube.com/watch?v=LCMimNAlsqs
+
+例の心海解説動画へのリンク
+https://youtu.be/o3pGlGiCVKM
+
+【参考にしたサイト】
+
+https://www.hoyolab.com/article/31079335
+
+https://www.hoyolab.com/article/31079467
+
+https://www.hoyolab.com/article/31079191
+
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode21/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode21/</guid>
+            <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
+            <itunes:duration>2:14:39</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode21/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode21/output.opus" length="2:14:39" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver5.1予告番組妄想同時視聴！！ #24</title>
+            <description>敗北しました・・・
+
+本当は冒頭に何かオープニング的なもの、最後にエンディング的なものも入れたかったんだけど・・・
+
+うーん・・・「ラジオ」としてみるのであれば、BGMがなくても良い気はするけど、「動画」としてみるのであれば、BGMがないとちょっと寂しく感じてしまう・・・自分の話し方のテンションの問題もするかな？？
+
+そういえばHoYoFairの感想も話そうと思っていたことを今思い出した！！！
+
+【参考にしたサイト】
+https://www.hoyolab.com/article/32498181
+
+https://ja.m.wikipedia.org/wiki/オセロット
+
+https://wikiwiki.jp/genshinwiki/%E6%99%82%E7%B3%BB%E5%88%97%E3%83%87%E3%83%BC%E3%82%BF
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode24/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode24/</guid>
+            <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
+            <itunes:duration>34:55</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode24/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode24/output.opus" length="34:55" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>☂☔【ハルシネラジオ】ナタ魔神任務1,2幕感想を話すだけ #23 ☂☔</title>
+            <description>ながら作業をしようとして
+敗北した経験多数あり！！！
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+雨の日, https://dova-s.jp/bgm/play13081.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode23/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode23/</guid>
+            <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
+            <itunes:duration>33:38</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode23/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode23/output.opus" length="33:38" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】『星空の選択』/オーディブルの勧めなどなど！ #17</title>
+            <description>https://youtu.be/zLdadovwDnQ
+ノーカット版
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode17/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode17/</guid>
+            <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
+            <itunes:duration>1:07:55</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode17/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode17/output.opus" length="1:07:55" type="audio/mpeg" />
         </item>
         
         <item>
@@ -223,9 +514,174 @@ VOICEVOX:四国めたん
             <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
             <itunes:duration>54:21</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode14/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode14/output.opus" length="54:21" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.6予告番組妄想振り返り！＆ 個人的に好きな原神関連作品の紹介！！！【原神】#16</title>
+            <description>後から、「あ～～そういえばあれも紹介したいんだった～」ってなっていたりします。
+
+長すぎる
+
+0:00 予告番組振り返り
+29:20 原神関連作品の紹介をしていく
+
+
+【動画内で紹介した動画】
+動画内で紹介したものをまとめた再生リストです
+・https://www.youtube.com/playlist?list=PLXOevnUq_u2WyIWfW6lcwS8mhGg6K6JjG
+
+インパクトパイモンのもの
+・https://twitter.com/0_0ch_/status/1503413245860003841
+
+(メモしていたけど紹介忘れていた・・・)等身大ニィロウを作る！のモノ！すごい！！！
+https://www.bilibili.com/video/BV1f14y187R5/?spm_id_from=333.788.recommend_more_video.0
+
+原神のヒトリゴト『樹脂待ちラジオ』
+https://open.spotify.com/show/0Md2uR36hU4Us6uJSmn68a?si=ba8f36b31c144039
+
+Genshin Guys - A Genshin Impact Podcast
+https://open.spotify.com/show/344CCVVxIXyD4Z9z1gBvHW?si=c5d35f7fdc8b41a6
+
+そらねこさん！かわいいロボットを作っている方！
+https://twitter.com/SoraNeko0214/status/1657694535571623936
+
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode16/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode16/</guid>
+            <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
+            <itunes:duration>2:30:16</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode16/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode16/output.opus" length="2:30:16" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.7予告番組妄想同時視聴！！！！【原神】#18</title>
+            <description>ニィロウアイドル計画がある前回↓
+
+【ハルシネラジオ】原神ver4.6予告番組”妄想”同時視聴！！！！！【原神】#14
+https://youtu.be/TqmmyecDjsM
+
+聞き直した感想-＞うるさい！！！！
+
+もう声をとる前に一回お試しでとろうかなぁ・・・ね？
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+うたた寝陽気:shimtone,https://dova-s.jp/bgm/play13093.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode18/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode18/</guid>
+            <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
+            <itunes:duration>1:00:01</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode18/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode18/output.opus" length="1:00:01" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.7予告番組妄想振り返り！！！！【原神】#19</title>
+            <description>だいぶ聞きづらいかも・・・すみません・・・
+
+【使用しているソフト】
+動画編集
+・ゆっくりMovieMaker4
+・Aviutl
+
+お絵描き
+・CLIPSTUDIO
+
+録画/配信
+・OBS
+
+【使用している素材】
+BGM
+Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+エフェクト
+・TELOPICTION,https://telopict.com/
+
+画像
+・OKUMONO,https://sozaino.site/
+・イラストや,https://www.irasutoya.com/
+
+キャラクターの声
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode19/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode19/</guid>
+            <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
+            <itunes:duration>47:48</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode19/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode19/output.opus" length="47:48" type="audio/mpeg" />
         </item>
         
         <item>
@@ -269,7 +725,7 @@ VOICEVOX:四国めたん
             <pubDate>Mon, 01 Apr 2024 19:34:08 JST</pubDate>
             <itunes:duration>51:59</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/special2024/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/special2024/output.opus" length="51:59" type="audio/mpeg" />
         </item>
@@ -329,7 +785,7 @@ VOICEVOX:四国めたん
             <pubDate>Sun, 24 Mar 2024 19:34:08 JST</pubDate>
             <itunes:duration>2:17:38</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode13/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode13/output.opus" length="2:17:38" type="audio/mpeg" />
         </item>
@@ -376,7 +832,7 @@ VOICEVOX:四国めたん
             <pubDate>Mon, 11 Mar 2024 19:34:08 JST</pubDate>
             <itunes:duration>55:47</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode12/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode12/output.opus" length="55:47" type="audio/mpeg" />
         </item>
@@ -423,9 +879,55 @@ VOICEVOX:四国めたん
             <pubDate>Tue, 30 Jan 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:01:18</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode10/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode10/output.opus" length="1:01:18" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver4.5予告番組”妄想”同時視聴！！！！！！#11</title>
+            <description>さっさとパソコンの環境を整えてあげたいですねぇ～～
+あとしゃべれるようになりてぇ！！聞き返すのがこえぇ！！
+
+【使用しているソフト等】
+使うときもあれば使わないときもある
+・ゆっくりMovieMaker4
+・CLIPSTUDIO
+・Aviutl
+・OBS
+
+【使用することが多い素材】
+BGMはDovaで配布されているものを使用することが多いです
+~BGM~
+・Crystal of light(FLASH☆BEAT),https://dova-s.jp/bgm/play12784.html 
+・Disco Gravity(hirnes),(リンクが見つけられない・・・)
+・Feather(Tinymemory),https://dova-s.jp/bgm/play12794.html
+・Metallic Love(hirnes),(リンクが見つけられない・・・)
+・Rhodes Trip(Anonyment),https://dova-s.jp/bgm/play12738.html
+・Sea lover(SHUNTA),https://dova-s.jp/bgm/play13057.html
+・うたた寝陽気(shimtone),https://dova-s.jp/bgm/play13093.html
+・ボールボックス(かずち),https://dova-s.jp/bgm/play12798.html
+・観測者たちの部屋(shimtone),https://dova-s.jp/bgm/play13079.html
+・小さな足音(すもち),https://dova-s.jp/bgm/play13086.html
+~SE~
+・効果音ラボ,https://soundeffect-lab.info/
+~エフェクト~
+・TELOPICTION,https://telopict.com/
+~画像~
+・OKUMONO,https://sozaino.site/
+
+【VOICEVOX】
+VOICEVOX:ずんだもん
+VOICEVOX:四国めたん
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode11/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode11/</guid>
+            <pubDate>Tue, 30 Jan 2024 19:34:08 JST</pubDate>
+            <itunes:duration>1:08:40</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode11/thumb.bmp" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode11/output.opus" length="1:08:40" type="audio/mpeg" />
         </item>
         
         <item>
@@ -471,7 +973,7 @@ VOICEVOX:四国めたん
             <pubDate>Wed, 10 Jan 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:11:18</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode9/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode9/output.opus" length="1:11:18" type="audio/mpeg" />
         </item>
@@ -518,7 +1020,7 @@ VOICEVOX:四国めたん
             <pubDate>Thu, 21 Dec 2023 19:34:08 JST</pubDate>
             <itunes:duration>1:24:00</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode8-5/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode8-5/output.opus" length="1:24:00" type="audio/mpeg" />
         </item>
@@ -570,7 +1072,7 @@ VOICEVOX:四国めたん
             <pubDate>Sat, 09 Dec 2023 19:34:08 JST</pubDate>
             <itunes:duration>1:20:45</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode8/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode8/output.opus" length="1:20:45" type="audio/mpeg" />
         </item>
@@ -616,7 +1118,7 @@ VOICEVOX:四国めたん
             <pubDate>Sun, 03 Dec 2023 19:34:08 JST</pubDate>
             <itunes:duration>58:08</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode7/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode7/output.opus" length="58:08" type="audio/mpeg" />
         </item>
@@ -667,7 +1169,7 @@ BGMはDovaで配布されているものを使用することが多いです
             <pubDate>Sun, 19 Nov 2023 19:34:08 JST</pubDate>
             <itunes:duration>46:28</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode6/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode6/output.opus" length="46:28" type="audio/mpeg" />
         </item>
@@ -713,7 +1215,7 @@ VOICEVOX:四国めたん
             <pubDate>Mon, 13 Nov 2023 19:34:08 JST</pubDate>
             <itunes:duration>1:01:38</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode5/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode5/output.opus" length="1:01:38" type="audio/mpeg" />
         </item>
@@ -770,7 +1272,7 @@ VOICEVOX:四国めたん
             <pubDate>Mon, 06 Nov 2023 19:34:08 JST</pubDate>
             <itunes:duration>23:23</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode4/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode4/output.opus" length="23:23" type="audio/mpeg" />
         </item>
@@ -823,7 +1325,7 @@ VOICEVOX:四国めたん
             <pubDate>Mon, 30 Oct 2023 19:34:08 JST</pubDate>
             <itunes:duration>42:53</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode3/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode3/output.opus" length="42:53" type="audio/mpeg" />
         </item>
@@ -866,13 +1368,13 @@ VOICEVOX:四国めたん
             <pubDate>Mon, 17 Jul 2023 19:34:08 JST</pubDate>
             <itunes:duration>9:47</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode2/thumb.bmp" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode2/output.opus" length="9:47" type="audio/mpeg" />
         </item>
         
         <item>
-            <title>【ハルシネラジオ/ゲスト回】ドラえもんと敵対したらど～する？#1</title>
+            <title>【ゲスト回】ドラえもんと敵対したらど～する？#1</title>
             <description>エイプリルフールネタです。・・・多分
 本当にネタが無くなったら第二回目が更新されるかもしれません
 
@@ -914,7 +1416,7 @@ VOICEVOX:四国めたん
             <pubDate>Sat, 01 Apr 2023 19:34:08 JST</pubDate>
             <itunes:duration>8:40</itunes:duration>
             
-                <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode1/thumb.jpg" />
             
             <enclosure url="http://localhost:1313/hallucination-radio/episode1/output.opus" length="8:40" type="audio/mpeg" />
         </item>

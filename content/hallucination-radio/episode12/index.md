@@ -1,10 +1,10 @@
 +++
 date = '2024-03-11T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.5予告番組”妄想”同時視聴振り返り ！！#12'
+title = '原神ver4.5予告番組”妄想”同時視聴振り返り ！！#12'
 audioUrl = 'output.opus'
 audioLength = '55:47'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 今回の教訓：エンコードをさせながら寝る場合はパソコンがスリープモードにならないように設定してから寝ること！
 
@@ -43,4 +43,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.5予告番組”妄想”同時視聴振り返り ！！#12](https://youtu.be/JSMe41SKjVE)

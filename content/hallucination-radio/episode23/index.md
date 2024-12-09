@@ -1,10 +1,10 @@
 +++
 date = '2024-06-30T19:34:08+09:00'
 draft = false
-title = '☂☔【ハルシネラジオ】ナタ魔神任務1,2幕感想を話すだけ #23 ☂☔'
+title = '☂☔ナタ魔神任務1,2幕感想を話すだけ #23 ☂☔'
 audioUrl = 'output.opus'
 audioLength = '33:38'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 ながら作業をしようとして
 敗北した経験多数あり！！！
@@ -55,4 +55,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[☂☔ナタ魔神任務1,2幕感想を話すだけ #23 ☂☔](https://youtu.be/E59kSyxyKD0)

@@ -1,10 +1,10 @@
 +++
 date = '2024-04-07T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.6予告番組妄想振り返り！＆ 個人的に好きな原神関連作品の紹介！！！【原神】#16'
+title = '原神ver4.6予告番組妄想振り返り！＆ 個人的に好きな原神関連作品の紹介！！！【原神】#16'
 audioUrl = 'output.opus'
 audioLength = '2:30:16'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 後から、「あ～～そういえばあれも紹介したいんだった～」ってなっていたりします。
 
@@ -65,4 +65,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.6予告番組妄想振り返り！＆ 個人的に好きな原神関連作品の紹介！！！【原神】#16](https://youtu.be/iCsX9zmbiTU)

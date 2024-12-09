@@ -1,10 +1,10 @@
 +++
 date = '2024-03-24T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】ver2.0ピノコニー開拓クエストの内容についていけなくなりそうだったのでまとめたいと思って頑張ったけど全然まとまらなかったんだよ【HSR】#13'
+title = 'ver2.0ピノコニー開拓クエストの内容についていけなくなりそうだったのでまとめたいと思って頑張ったけど全然まとまらなかったんだよ【HSR】#13'
 audioUrl = 'output.opus'
 audioLength = '2:17:38'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 ※あとでチャプターを作る
 
@@ -56,4 +56,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[ver2.0ピノコニー開拓クエストの内容についていけなくなりそうだったのでまとめたいと思って頑張ったけど全然まとまらなかったんだよ【HSR】#13](https://youtu.be/CEX0ChzMHI8)

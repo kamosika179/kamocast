@@ -1,10 +1,10 @@
 +++
 date = '2023-12-21T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】綺良々アクスタ届いたよ！！＆ナヴィアを引かねば・・・#8.5'
+title = '綺良々アクスタ届いたよ！！＆ナヴィアを引かねば・・・#8.5'
 audioUrl = 'output.opus'
 audioLength = '1:24:00'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 過去一ラジオじゃなかった気がする
 
@@ -43,4 +43,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[綺良々アクスタ届いたよ！！＆ナヴィアを引かねば・・・#8.5](https://youtu.be/SFHHi9YOtn0)

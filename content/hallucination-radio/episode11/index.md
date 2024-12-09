@@ -1,10 +1,10 @@
 +++
 date = '2024-01-30T19:34:08+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver4.5予告番組”妄想”同時視聴！！！！！！#11'
+title = '原神ver4.5予告番組”妄想”同時視聴！！！！！！#11'
 audioUrl = 'output.opus'
 audioLength = '1:08:40'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 さっさとパソコンの環境を整えてあげたいですねぇ～～
 あとしゃべれるようになりてぇ！！聞き返すのがこえぇ！！
@@ -42,4 +42,4 @@ VOICEVOX:四国めたん
 '''
 +++
 
-
+[原神ver4.5予告番組”妄想”同時視聴！！！！！！#11](https://youtu.be/XP7VUJ1ldLE)
