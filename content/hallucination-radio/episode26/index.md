@@ -1,6 +1,6 @@
 +++
 date = '2024-12-16T06:23:35+09:00'
-draft = true
+draft = false
 title = '原神ver5.3予告番組妄想同時視聴！！ #26'
 audioUrl = 'output.opus'
 audioLength = '1:24:52'
