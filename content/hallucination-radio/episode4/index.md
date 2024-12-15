@@ -4,7 +4,7 @@ draft = false
 title = '原神ver4.2予告番組を見たあとに妄想を振り返る！！+ちょっとフリーナエピソードの感想 #4'
 audioUrl = 'output.opus'
 audioLength = '23:23'
-podcastImage = 'thumb.bmp'
+podcastImage = 'thumb.jpg'
 description = '''
 全休のソリスト・かもしか
 「今、我がネタはすべて散り果てた。」
