@@ -1,5 +1,5 @@
 +++
-date = '2024-01-30T19:34:08+09:00'
+date = '2024-02-24T19:34:08+09:00'
 draft = false
 title = '原神ver4.5予告番組”妄想”同時視聴！！！！！！#11'
 audioUrl = 'output.opus'
