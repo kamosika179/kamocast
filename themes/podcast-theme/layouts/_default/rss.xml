@@ -4,7 +4,7 @@
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
         <description>{{ .Params.description | default "ハルシネーションラジオのRSS" }}</description>
-        <itunes:image href="{{ .Permalink }}{{ $.Params.podcastImage }}" />
+        <itunes:image href="{{ .Permalink }}{{ .Params.podcastImage }}" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
         <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
