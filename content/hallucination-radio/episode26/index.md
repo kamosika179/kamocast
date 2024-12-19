@@ -78,7 +78,7 @@ A Carefree Village Life,https://dova-s.jp/bgm/play21541.html
 
 ![alt text](炎旅人イラスト透過.png)
 
-<video controls src="炎旅人イラスト.mp4" title="Title"></video>
+{{< video src="炎旅人イラスト.mp4" title="炎旅人イラスト" >}}
 
 ### その他！
 
@@ -92,5 +92,6 @@ A Carefree Village Life,https://dova-s.jp/bgm/play21541.html
 
 ![](おりがみのことり.png)
 
-<video controls src="ver5_3いろいろ.mp4" title="Title"></video>
+
+{{< video src="ver5_3いろいろ.mp4" title="炎旅人イラスト" >}}
 
