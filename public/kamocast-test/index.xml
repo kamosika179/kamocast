@@ -3,12 +3,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
         <title>ハルシネラジオ(テスト編)</title>
-        <link>https://kamocast.forrexlapis.win/kamocast-test/</link>
+        <link>http://localhost:1313/kamocast-test/</link>
         <description>「ポッドキャスト」をRSS経由で配信するテストのために作成されたシリーズ</description>
-        <itunes:image href="https://kamocast.forrexlapis.win/kamocast-test/test.webp" />
+        <itunes:image href="http://localhost:1313/kamocast-test/test.webp" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
-        <atom:link href="https://kamocast.forrexlapis.win/kamocast-test/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/kamocast-test/" rel="self" type="application/rss+xml" />
         <itunes:category text="Games &amp;amp; Hobbies" />
         <itunes:author>かもしか</itunes:author>
         <itunes:owner>
@@ -20,27 +20,27 @@
         <item>
             <title>SNSを語る</title>
             <description>テスト2回目エピソードです。</description>
-            <link>https://kamocast.forrexlapis.win/kamocast-test/episode2/</link>
-            <guid>https://kamocast.forrexlapis.win/kamocast-test/episode2/</guid>
+            <link>http://localhost:1313/kamocast-test/episode2/</link>
+            <guid>http://localhost:1313/kamocast-test/episode2/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
             <itunes:duration>6:06</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/kamocast-test/episode2/img.png" />
+                <itunes:image href="http://localhost:1313/kamocast-test/episode2/img.png" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/kamocast-test/episode2/sns.opus" length="6:06" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/kamocast-test/episode2/sns.opus" length="6:06" type="audio/mpeg" />
         </item>
         
         <item>
             <title>ダイレクトモニタリング良いよ話、歌ってみたやるかなど</title>
             <description>初回エピソードです。</description>
-            <link>https://kamocast.forrexlapis.win/kamocast-test/episode1/</link>
-            <guid>https://kamocast.forrexlapis.win/kamocast-test/episode1/</guid>
+            <link>http://localhost:1313/kamocast-test/episode1/</link>
+            <guid>http://localhost:1313/kamocast-test/episode1/</guid>
             <pubDate>Thu, 05 Dec 2024 19:34:08 JST</pubDate>
             <itunes:duration>13:37</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/kamocast-test/test.webp" />
+                <itunes:image href="http://localhost:1313/kamocast-test/test.webp" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/kamocast-test/episode1/mic.opus" length="13:37" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/kamocast-test/episode1/mic.opus" length="13:37" type="audio/mpeg" />
         </item>
         
     </channel>

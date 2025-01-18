@@ -3,12 +3,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
         <title>Categories</title>
-        <link>https://kamocast.forrexlapis.win/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>ハルシネーションラジオのRSS</description>
-        <itunes:image href="https://kamocast.forrexlapis.win/categories/" />
+        <itunes:image href="http://localhost:1313/categories/" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
-        <atom:link href="https://kamocast.forrexlapis.win/categories/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" />
         <itunes:category text="" />
         <itunes:author></itunes:author>
         <itunes:owner>

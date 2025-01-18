@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
     <channel>
         <title>ハルシネラジオ</title>
-        <link>https://kamocast.forrexlapis.win/hallucination-radio/</link>
+        <link>http://localhost:1313/hallucination-radio/</link>
         <description>
 遊んでいるゲーム(原神)の話などをしています！
 特に関係ない話もします！！
@@ -20,10 +20,10 @@ https://kamocast.forrexlapis.win/hallucination-radio/index.xml
 ※現状ファイル容量が25MBまでのモノしか上げられないので、長時間のものになるほど音質が悪くなっています・・・
 
 </description>
-        <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/top.jpg" />
+        <itunes:image href="http://localhost:1313/hallucination-radio/top.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <language>ja-JP</language>
-        <atom:link href="https://kamocast.forrexlapis.win/hallucination-radio/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/hallucination-radio/" rel="self" type="application/rss+xml" />
         <itunes:category text="Games &amp;amp; Hobbies" />
         <itunes:author>かもしか</itunes:author>
         <itunes:owner>
@@ -31,6 +31,119 @@ https://kamocast.forrexlapis.win/hallucination-radio/index.xml
 			<itunes:email>nirai2815@gmail.com</itunes:email>
 		</itunes:owner>
 
+        
+        <item>
+            <title>【ハルシネラジオ】原神ver5.4予告番組妄想同時視聴！！ #27</title>
+            <description>
+頼んだぞ・・・miHoYo・・・
+
+【動画内で紹介した動画】
+・シトラリアニメ,    • 【原神】キャラアニメ——「瓶の中の願い」  
+・【原神】とうとう魔神任務5章5幕(灼烈の反魂の詩)やるよ！, https://youtube.com/live/7PBsw49nIn0
+
+【参考にしたサイト】
+・散り行く心の暗雲、夢に見た月明かり, https://www.hoyolab.com/article/36178015
+・獏枕（ばくまくら, https://ouchidehaiku.com/contents/357406
+・MapleStory Worlds, https://prtimes.jp/main/html/rd/p/000...
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamo...
+
+🐦X(Twitter):  / kamosika179   
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用している素材】
+BGM
+A Carefree Village Life,https://dova-s.jp/bgm/play21541.html
+
+SE等
+・効果音ラボ,https://soundeffect-lab.info/
+
+検索用の情報！
+
+原神　Genshin ver5.4 予告番組 妄想 夢見月瑞希　mizuki
+
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode27/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode27/</guid>
+            <pubDate>Sat, 18 Jan 2025 10:38:52 JST</pubDate>
+            <itunes:duration>1:05:47</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode27/%e3%83%8f%e3%83%ab%e3%82%b7%e3%83%8d%e3%83%a9%e3%82%b8%e3%82%aa%e5%8e%9f%e7%a5%9ever5_4%e5%a6%84%e6%83%b3podcast%e3%82%b5%e3%83%a0%e3%83%8d%e3%82%a4%e3%83%ab.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode27/output.opus" length="1:05:47" type="audio/mpeg" />
+        </item>
+        
+        <item>
+            <title>原神ver5.3予告番組妄想同時視聴！！ #26</title>
+            <description>～お品書き～
+- 魔神任務、イベント、コラボ？話
+- キャラクター妄想話
+    - マーヴィカ
+    - 旅人(炎)
+    - シトラリ
+    - 藍硯
+- 雑談
+    - カチーナ・・・カチーナ・・・
+    - チャスカエピソード良かったよね
+    - テイワットだよりさん話
+    - テイワット放送局話
+
+フライングディスクの科学／The Science behind Flying Discs
+https://www.youtube.com/watch?v=9StTH9GRKxs
+
+【原神】カチーナ かわいい
+https://note.com/tsu_ya0x0/n/n7a4d475bb089
+
+【原神】エピソード　チャスカ「愛と平和」
+https://www.youtube.com/watch?v=CSilmG1OR3U
+
+テイワットだより
+https://www.youtube.com/@%E3%83%86%E3%82%A4%E3%83%AF%E3%83%83%E3%83%88%E3%81%A0%E3%82%88%E3%82%8A
+
+テイワット放送局終了
+https://x.com/Genshin_7/status/1862075212813975998
+
+テイワット放送局好きな箇所！
+https://youtu.be/1YWjuDpXFJ8?t=1224
+
+【SNS】
+
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
+
+🐦X(Twitter):https://twitter.com/kamosika179 
+
+🐘Mastodon(fedibird):https://fedibird.com/@kamosika
+
+Xは基本的に動画投稿などの告知の際にみています！なので投稿が少なかったり、返事を返すのが遅くなったりします！(週1とか…？)
+依存気味だったので見る頻度を減らしています…
+
+今はPleromaの方をよく見ていて色々喋ったりしています！
+Mastodon、Misskeyなどのアカウントがあればフォローしたりリプライを送ることができるので、興味持ってくれたならフォローしてもらえると嬉しいです！
+投稿をみるだけなら、アカウントなくてもみれますし、rssも取得できたと思うので都合に合わせてもらえれば！
+
+【使用している素材】
+BGM
+A Carefree Village Life,https://dova-s.jp/bgm/play21541.html
+</description>
+            <link>http://localhost:1313/hallucination-radio/episode26/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode26/</guid>
+            <pubDate>Mon, 16 Dec 2024 06:23:35 JST</pubDate>
+            <itunes:duration>1:24:52</itunes:duration>
+            
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode26/thumb.jpg" />
+            
+            <enclosure url="http://localhost:1313/hallucination-radio/episode26/output.opus" length="1:24:52" type="audio/mpeg" />
+        </item>
         
         <item>
             <title>原神ver5.2予告番組妄想同時視聴！！ #25</title>
@@ -85,14 +198,14 @@ SE等
 ・OKUMONO,https://sozaino.site/
 ・イラストや,https://www.irasutoya.com/
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode25/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode25/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode25/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode25/</guid>
             <pubDate>Sun, 03 Nov 2024 19:34:08 JST</pubDate>
             <itunes:duration>51:59</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode25/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode25/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode25/output.opus" length="51:59" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode25/output.opus" length="51:59" type="audio/mpeg" />
         </item>
         
         <item>
@@ -150,14 +263,14 @@ SE等
 ・OKUMONO,https://sozaino.site/
 ・イラストや,https://www.irasutoya.com/
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode24/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode24/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode24/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode24/</guid>
             <pubDate>Wed, 25 Sep 2024 19:34:08 JST</pubDate>
             <itunes:duration>34:55</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode24/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode24/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode24/output.opus" length="34:55" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode24/output.opus" length="34:55" type="audio/mpeg" />
         </item>
         
         <item>
@@ -209,14 +322,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode23/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode23/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode23/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode23/</guid>
             <pubDate>Tue, 10 Sep 2024 19:34:08 JST</pubDate>
             <itunes:duration>33:38</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode23/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode23/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode23/output.opus" length="33:38" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode23/output.opus" length="33:38" type="audio/mpeg" />
         </item>
         
         <item>
@@ -268,14 +381,14 @@ SE等
 ・OKUMONO,https://sozaino.site/
 ・イラストや,https://www.irasutoya.com/
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode22/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode22/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode22/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode22/</guid>
             <pubDate>Tue, 20 Aug 2024 19:34:08 JST</pubDate>
             <itunes:duration>38:35</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode22/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode22/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode22/output.opus" length="38:35" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode22/output.opus" length="38:35" type="audio/mpeg" />
         </item>
         
         <item>
@@ -331,14 +444,14 @@ Mastodon、Misskeyなどのアカウントがあればフォローしたりリ�
 BGM
 Feather:Tinymemory,https://dova-s.jp/bgm/play12794.html
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode21/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode21/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode21/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode21/</guid>
             <pubDate>Mon, 12 Aug 2024 19:34:08 JST</pubDate>
             <itunes:duration>2:14:39</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode21/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode21/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode21/output.opus" length="2:14:39" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode21/output.opus" length="2:14:39" type="audio/mpeg" />
         </item>
         
         <item>
@@ -404,14 +517,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode20/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode20/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode20/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode20/</guid>
             <pubDate>Sun, 30 Jun 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:11:29</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode20/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode20/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode20/output.opus" length="1:11:29" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode20/output.opus" length="1:11:29" type="audio/mpeg" />
         </item>
         
         <item>
@@ -447,14 +560,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode19/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode19/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode19/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode19/</guid>
             <pubDate>Sun, 26 May 2024 19:34:08 JST</pubDate>
             <itunes:duration>47:48</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode19/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode19/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode19/output.opus" length="47:48" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode19/output.opus" length="47:48" type="audio/mpeg" />
         </item>
         
         <item>
@@ -500,14 +613,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode18/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode18/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode18/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode18/</guid>
             <pubDate>Sun, 19 May 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:00:01</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode18/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode18/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode18/output.opus" length="1:00:01" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode18/output.opus" length="1:00:01" type="audio/mpeg" />
         </item>
         
         <item>
@@ -543,14 +656,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode17/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode17/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode17/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode17/</guid>
             <pubDate>Wed, 01 May 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:07:55</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode17/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode17/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode17/output.opus" length="1:07:55" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode17/output.opus" length="1:07:55" type="audio/mpeg" />
         </item>
         
         <item>
@@ -612,14 +725,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode16/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode16/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode16/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode16/</guid>
             <pubDate>Mon, 15 Apr 2024 19:34:08 JST</pubDate>
             <itunes:duration>2:30:16</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode16/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode16/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode16/output.opus" length="2:30:16" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode16/output.opus" length="2:30:16" type="audio/mpeg" />
         </item>
         
         <item>
@@ -674,14 +787,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode14/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode14/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode14/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode14/</guid>
             <pubDate>Sun, 07 Apr 2024 19:34:08 JST</pubDate>
             <itunes:duration>54:21</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode14/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode14/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode14/output.opus" length="54:21" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode14/output.opus" length="54:21" type="audio/mpeg" />
         </item>
         
         <item>
@@ -720,14 +833,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/special2024/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/special2024/</guid>
+            <link>http://localhost:1313/hallucination-radio/special2024/</link>
+            <guid>http://localhost:1313/hallucination-radio/special2024/</guid>
             <pubDate>Mon, 01 Apr 2024 19:34:08 JST</pubDate>
             <itunes:duration>51:59</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/special2024/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/special2024/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/special2024/output.opus" length="51:59" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/special2024/output.opus" length="51:59" type="audio/mpeg" />
         </item>
         
         <item>
@@ -780,14 +893,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode13/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode13/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode13/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode13/</guid>
             <pubDate>Sun, 24 Mar 2024 19:34:08 JST</pubDate>
             <itunes:duration>2:17:38</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode13/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode13/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode13/output.opus" length="2:17:38" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode13/output.opus" length="2:17:38" type="audio/mpeg" />
         </item>
         
         <item>
@@ -827,14 +940,14 @@ SE等
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode12/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode12/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode12/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode12/</guid>
             <pubDate>Mon, 11 Mar 2024 19:34:08 JST</pubDate>
             <itunes:duration>55:47</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode12/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode12/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode12/output.opus" length="55:47" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode12/output.opus" length="55:47" type="audio/mpeg" />
         </item>
         
         <item>
@@ -873,14 +986,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode11/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode11/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode11/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode11/</guid>
             <pubDate>Sat, 24 Feb 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:08:40</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode11/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode11/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode11/output.opus" length="1:08:40" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode11/output.opus" length="1:08:40" type="audio/mpeg" />
         </item>
         
         <item>
@@ -920,14 +1033,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode10/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode10/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode10/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode10/</guid>
             <pubDate>Tue, 30 Jan 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:01:18</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode10/thumb.bmp" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode10/thumb.bmp" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode10/output.opus" length="1:01:18" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode10/output.opus" length="1:01:18" type="audio/mpeg" />
         </item>
         
         <item>
@@ -968,14 +1081,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode9/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode9/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode9/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode9/</guid>
             <pubDate>Wed, 10 Jan 2024 19:34:08 JST</pubDate>
             <itunes:duration>1:11:18</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode9/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode9/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode9/output.opus" length="1:11:18" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode9/output.opus" length="1:11:18" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1015,14 +1128,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode8-5/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode8-5/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode8-5/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode8-5/</guid>
             <pubDate>Thu, 21 Dec 2023 19:34:08 JST</pubDate>
             <itunes:duration>1:24:00</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode8-5/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode8-5/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode8-5/output.opus" length="1:24:00" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode8-5/output.opus" length="1:24:00" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1067,14 +1180,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode8/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode8/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode8/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode8/</guid>
             <pubDate>Sat, 09 Dec 2023 19:34:08 JST</pubDate>
             <itunes:duration>1:20:45</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode8/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode8/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode8/output.opus" length="1:20:45" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode8/output.opus" length="1:20:45" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1113,14 +1226,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode7/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode7/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode7/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode7/</guid>
             <pubDate>Sun, 03 Dec 2023 19:34:08 JST</pubDate>
             <itunes:duration>58:08</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode7/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode7/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode7/output.opus" length="58:08" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode7/output.opus" length="58:08" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1164,14 +1277,14 @@ BGMはDovaで配布されているものを使用することが多いです
 ~画像~
 ・OKUMONO,https://sozaino.site/
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode6/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode6/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode6/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode6/</guid>
             <pubDate>Sun, 19 Nov 2023 19:34:08 JST</pubDate>
             <itunes:duration>46:28</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode6/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode6/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode6/output.opus" length="46:28" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode6/output.opus" length="46:28" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1210,14 +1323,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode5/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode5/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode5/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode5/</guid>
             <pubDate>Mon, 13 Nov 2023 19:34:08 JST</pubDate>
             <itunes:duration>1:01:38</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode5/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode5/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode5/output.opus" length="1:01:38" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode5/output.opus" length="1:01:38" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1267,14 +1380,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode4/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode4/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode4/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode4/</guid>
             <pubDate>Mon, 06 Nov 2023 19:34:08 JST</pubDate>
             <itunes:duration>23:23</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode4/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode4/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode4/output.opus" length="23:23" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode4/output.opus" length="23:23" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1320,14 +1433,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode3/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode3/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode3/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode3/</guid>
             <pubDate>Mon, 30 Oct 2023 19:34:08 JST</pubDate>
             <itunes:duration>42:53</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode3/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode3/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode3/output.opus" length="42:53" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode3/output.opus" length="42:53" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1363,14 +1476,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode2/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode2/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode2/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode2/</guid>
             <pubDate>Mon, 17 Jul 2023 19:34:08 JST</pubDate>
             <itunes:duration>9:47</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode2/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode2/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode2/output.opus" length="9:47" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode2/output.opus" length="9:47" type="audio/mpeg" />
         </item>
         
         <item>
@@ -1411,14 +1524,14 @@ BGMはDovaで配布されているものを使用することが多いです
 VOICEVOX:ずんだもん
 VOICEVOX:四国めたん
 </description>
-            <link>https://kamocast.forrexlapis.win/hallucination-radio/episode1/</link>
-            <guid>https://kamocast.forrexlapis.win/hallucination-radio/episode1/</guid>
+            <link>http://localhost:1313/hallucination-radio/episode1/</link>
+            <guid>http://localhost:1313/hallucination-radio/episode1/</guid>
             <pubDate>Sat, 01 Apr 2023 19:34:08 JST</pubDate>
             <itunes:duration>8:40</itunes:duration>
             
-                <itunes:image href="https://kamocast.forrexlapis.win/hallucination-radio/episode1/thumb.jpg" />
+                <itunes:image href="http://localhost:1313/hallucination-radio/episode1/thumb.jpg" />
             
-            <enclosure url="https://kamocast.forrexlapis.win/hallucination-radio/episode1/output.opus" length="8:40" type="audio/mpeg" />
+            <enclosure url="http://localhost:1313/hallucination-radio/episode1/output.opus" length="8:40" type="audio/mpeg" />
         </item>
         
     </channel>
