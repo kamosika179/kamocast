@@ -1,7 +1,33 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+
+
+  <div class="container-fluid my-4 d-flex">
+
+    <!-- サムネイルとタイトル一覧 -->
+    <div class="d-flex flex-wrap gap-3 justify-content-center">
+      {{ range site.RegularPages }}
+      <div style="width: 20%;">
+        <div class="card w-30 shadow-sm">
+          <div class="card-body">
+            <h6 class="card-title" style="overflow: hidden;">
+              <a class="d-inline-block text-truncate" style="max-width: 100%;" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            </h6>
+          </div>
+          {{ $image := .Resources.GetMatch .Params.podcastImage }}
+          {{ if not $image }}
+            {{ $sectionPage := site.GetPage .Section }}
+            {{ $image = $sectionPage.Resources.GetMatch "top.jpg" }}
+          {{ end }}
+          {{ with $image }}
+          <img src="{{ .RelPermalink }}" class="card-img-top" style="max-width: 100%;" alt="Card Image">
+          {{ else }}
+          <img src="{{ .RelPermalink }}" class="card-img-top" style="max-width: 100%;" alt="Default Image">
+          {{ end }}
+          
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
 {{ end }}
