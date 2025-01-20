@@ -5,27 +5,44 @@
   <div class="container-fluid my-4 d-flex">
 
     <!-- サムネイルとタイトル一覧 -->
-    <div class="d-flex flex-wrap gap-3 justify-content-center">
+    <div class="d-flex flex-wrap gap-5 justify-content-center">
       {{ range site.RegularPages }}
-      <div style="width: 20%;">
-        <div class="card w-30 shadow-sm">
-          <div class="card-body">
-            <h6 class="card-title" style="overflow: hidden;">
-              <a class="d-inline-block text-truncate" style="max-width: 100%;" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            </h6>
+      <!-- カード -->
+      <div style="width: 20%; min-width: 250px;">
+        <div class="row no-gutters">
+
+          <!-- 左、帯 -->
+          <!-- <div class="col-1" style="background-color: blue;">
+          </div> -->
+
+          <!-- カード -->
+          <div class="col-12">
+            <div class="card w-30 shadow-lg">
+              <!-- <div class="card-body">
+                <h6 class="card-title" style="overflow: hidden;">
+                  <a class="d-inline-block text-truncate" style="max-width: 100%;" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                </h6>
+              </div> -->
+              {{ $image := .Resources.GetMatch .Params.podcastImage }}
+              {{ if not $image }}
+              {{ $sectionPage := site.GetPage .Section }}
+              {{ $image = $sectionPage.Resources.GetMatch "top.jpg" }}
+              {{ end }}
+              <a class="m-2 rounded-2" href="{{ .RelPermalink }}">
+                {{ with $image }}
+                <img src="{{ .RelPermalink }}" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Card Image">
+                {{ else }}
+                <img src="{{ .RelPermalink }}" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Default Image">
+                {{ end }}
+              </a>
+              <div class="card-img-overlay">
+                <h6 class="card-title text-truncate" style="overflow: hidden;">
+                  {{ .LinkTitle }}
+                </h6>
+              </div>            
+              </div>
+            </div>
           </div>
-          {{ $image := .Resources.GetMatch .Params.podcastImage }}
-          {{ if not $image }}
-            {{ $sectionPage := site.GetPage .Section }}
-            {{ $image = $sectionPage.Resources.GetMatch "top.jpg" }}
-          {{ end }}
-          {{ with $image }}
-          <img src="{{ .RelPermalink }}" class="card-img-top" style="max-width: 100%;" alt="Card Image">
-          {{ else }}
-          <img src="{{ .RelPermalink }}" class="card-img-top" style="max-width: 100%;" alt="Default Image">
-          {{ end }}
-          
-        </div>
       </div>
       {{ end }}
     </div>

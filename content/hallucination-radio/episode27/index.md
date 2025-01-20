@@ -1,7 +1,7 @@
 +++
 date = '2025-01-18T10:38:52+09:00'
 draft = false
-title = '【ハルシネラジオ】原神ver5.4予告番組妄想同時視聴！！ #27'
+title = '原神ver5.4予告番組妄想同時視聴！！ #27'
 audioUrl = 'output.opus'
 audioLength = '1:05:47'
 podcastImage = 'ハルシネラジオ原神ver5_4妄想podcastサムネイル.jpg'
