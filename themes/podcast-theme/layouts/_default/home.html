@@ -32,14 +32,14 @@
                 {{ with $image }}
                 <img src="{{ .RelPermalink }}" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Card Image">
                 {{ else }}
-                <img src="{{ .RelPermalink }}" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Default Image">
+                <img src="/no_image.jpg" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Default Image">
                 {{ end }}
-              </a>
-              <div class="card-img-overlay">
-                <h6 class="card-title text-truncate" style="overflow: hidden;">
-                  {{ .LinkTitle }}
-                </h6>
-              </div>            
+                <div class="card-img-overlay">
+                  <h6 class="card-title text-truncate" style="overflow: hidden;">
+                    {{ .LinkTitle }}
+                  </h6>
+                </div>
+              </a>         
               </div>
             </div>
           </div>
