@@ -1,10 +1,39 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-
+  <!-- サムネイル、タイトル、タグ、再生ボタン、投稿日 -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-3">
+        {{ $image := .Resources.GetMatch .Params.podcastImage }}
+        {{ with $image }}
+        <img src="{{ .RelPermalink }}" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Card Image">
+        {{ else }}
+        <img src="/no_image.jpg" class="card-img-top rounded-2 shadow-lg" style="max-width: 100%;" alt="Default Image">
+        {{ end }}
+      </div>
+      <div class="col-9">
+        <div class="row">
+          <h1>{{ .Title }}</h1>
+          <div>タグが入る予定(工事中)</div>
+          {{ $audio := .Resources.GetMatch .Params.audioUrl }}
+          {{ with $audio }}
+          <audio controls>
+            <source src="{{ .RelPermalink }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+  <!-- ポッドキャスト説明文欄 -->
   {{ .Params.description | markdownify}}
+
+  <!-- 記事内容欄 -->
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
