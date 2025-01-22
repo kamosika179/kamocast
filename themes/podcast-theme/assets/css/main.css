@@ -115,3 +115,21 @@ a:hover .card-img-overlay {
   background-color: #495057; /* ホバー時の少し明るい背景 */
   color: #ffffff; /* ホバー時のテキスト色 */
 }
+
+
+/* リンクの基本スタイル */
+.section-page-a {
+  color: white; /* 好みの色を指定 */
+  text-decoration: none; /* 下線を消す */
+  font-weight: bold; /* 太字にする */
+  transition: color 0.3s ease, text-shadow 0.3s ease; /* ホバー時のアニメーション */
+}
+
+/* ホバー時のスタイル */
+.section-page-a:hover {
+  color: grey; /* ホバー時に濃い色にする */
+  /* text-shadow: 0 0 5px rgba(194, 194, 194, 0.5); ホバー時に発光風の効果 */
+}
+
+
+
