@@ -1,6 +1,6 @@
 {{ define "main" }}
   <!-- サムネイル、タイトル、タグ、再生ボタン、投稿日 -->
-  <div class="container-fluid">
+  <div class="container title-section my-3">
     <div class="row">
       <div class="col-3">
         {{ $image := .Resources.GetMatch .Params.podcastImage }}
@@ -13,7 +13,10 @@
       <div class="col-9">
         <div class="row">
           <h1>{{ .Title }}</h1>
-          <div>タグが入る予定(工事中)</div>
+          {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+          {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+          {{ $dateHuman := .Date | time.Format ":date_long" }}
+          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
           {{ $audio := .Resources.GetMatch .Params.audioUrl }}
           {{ with $audio }}
           <audio controls>
@@ -26,14 +29,15 @@
     </div>
   </div>
   
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
+  
   <!-- ポッドキャスト説明文欄 -->
+  <div class="container title-section my-3">
   {{ .Params.description | markdownify}}
+  </div>
 
   <!-- 記事内容欄 -->
+  <div class="container content-section my-3">
   {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  </div>
+  
 {{ end }}

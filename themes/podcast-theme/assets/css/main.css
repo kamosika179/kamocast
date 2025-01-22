@@ -30,7 +30,7 @@ body {
   color: #007bff; /* ホバー時のテキスト色 */
 }
 
-/* エピソードタイトルホバー表示 */
+/* メインページエピソードタイトルホバー表示 */
 a .card-img-overlay {
   position: absolute;
   top: 0;
@@ -49,4 +49,69 @@ a .card-img-overlay {
 a:hover .card-img-overlay {
   opacity: 1; /* ホバー時に背景を表示 */
   color: #333; /* ホバー時の文字色を黒っぽい色に */
+}
+
+/* シングルページ */
+.title-section {
+  background-color: #474747; /* 背景色 */
+  color: #fdfdfd;
+  border-radius: 15px;      /* 角丸 */
+  padding: 20px;            /* 内側の余白 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 軽い影を追加 */
+  border: 1px solid #414141; /* 微妙な境界線 */
+}
+
+.content-section {
+  background-color: #474747; /* 背景色 */
+  color: #fdfdfd;
+  border-radius: 15px;      /* 角丸 */
+  padding: 20px;            /* 内側の余白 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 軽い影を追加 */
+  border: 1px solid #414141; /* 微妙な境界線 */
+}
+
+.content-section video, .content-section img {
+  max-width: 80%; /* コンテナの幅を超えない */
+  height: auto;    /* 縦横比を維持してリサイズ */
+  display: block;  /* 余計な余白を防ぐ */
+  margin: 0 auto;  /* 中央揃え（任意） */
+}
+
+/* タグのスタイル */
+/* タグコンテナ全体 */
+.tags-container {
+  display: flex;
+  align-items: center;
+}
+
+/* アイコンのスタイル */
+.tags-icon {
+  font-size: 1.2rem; /* 少し小さめに */
+  color: #f8f9fa; /* 明るい色で背景に映える */
+  margin-right: 0.5rem;
+}
+
+/* タグリストのスタイル */
+.tags-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+
+/* タグリンクのスタイル */
+.tag-link {
+  display: inline-block;
+  padding: 0.2rem 0.5rem; /* タグ内の余白 */
+  background-color: #343a40; /* ダークグレー */
+  color: #f8f9fa; /* 明るいテキスト色 */
+  border-radius: 3px;
+  font-size: 0.875rem; /* フォントサイズを小さめに */
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.tag-link:hover {
+  background-color: #495057; /* ホバー時の少し明るい背景 */
+  color: #ffffff; /* ホバー時のテキスト色 */
 }

@@ -5,6 +5,7 @@ title = '原神ver5.4予告番組妄想同時視聴！！ #27'
 audioUrl = 'output.opus'
 audioLength = '1:05:47'
 podcastImage = 'ハルシネラジオ原神ver5_4妄想podcastサムネイル.jpg'
+tags = ['原神','夢見月瑞希']
 description = '''
 
 ↓ポッドキャスト作成に当たって作ったイラストとかおまけをおいています！
@@ -20,13 +21,13 @@ https://kamocast.pages.dev/hallucination-radio/episode27/
 【参考にしたサイト】
 ・散り行く心の暗雲、夢に見た月明かり, https://www.hoyolab.com/article/36178015
 ・獏枕（ばくまくら, https://ouchidehaiku.com/contents/357406
-・MapleStory Worlds, https://prtimes.jp/main/html/rd/p/000...
+・MapleStory Worlds, https://prtimes.jp/main/html/rd/p/000000312.000014847.html
 
 【SNS】
 
-🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamo...
+🪻Pleroma(pleniya):https://plrm.komaniya.work/users/kamosika
 
-🐦X(Twitter):  / kamosika179   
+🐦X(Twitter): [kamosika179](https://twitter.com/kamosika179) 
 
 🐘Mastodon(fedibird):https://fedibird.com/@kamosika
 
