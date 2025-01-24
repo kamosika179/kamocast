@@ -5,6 +5,7 @@ title = '原神ver5.3予告番組妄想同時視聴！！ #26'
 audioUrl = 'output.opus'
 audioLength = '1:24:52'
 podcastImage = 'thumb.jpg'
+tags = ['原神','マーヴィカ','旅人','シトラリ','藍硯']
 description = '''
 ～お品書き～
 - 魔神任務、イベント、コラボ？話

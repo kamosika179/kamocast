@@ -30,26 +30,43 @@ body {
   color: #007bff; /* ホバー時のテキスト色 */
 }
 
-/* メインページエピソードタイトルホバー表示 */
-a .card-img-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.8) 100%);
-  opacity: 0;
-  transition: opacity 0.3s ease-in-out;
-  color: transparent; /* 非ホバー時は文字も透明に */
-  /* display: flex;
-  align-items: end;
-  justify-content: center; */
+.card {
+  background-color: #474747; /* 背景色 */
 }
 
-a:hover .card-img-overlay {
-  opacity: 1; /* ホバー時に背景を表示 */
-  color: #333; /* ホバー時の文字色を黒っぽい色に */
+/* リンク全体のスタイル */
+.card a {
+  display: block; /* aタグをブロック化して全体をリンク化 */
+  text-decoration: none; /* 下線を消す */
+  color: inherit; /* 親要素の色を継承 */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* アニメーション効果 */
+  color: #f8f9fa; /* 明るいテキスト色 */
 }
+
+/* ホバー時のスタイル */
+.card a:hover {
+  transform: scale(1.03); /* 少し拡大 */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* 軽い影の強調 */
+  text-decoration: none; /* 念のため再指定 */
+}
+
+/* テキスト部分のスタイル */
+.card-text {
+  color: white; /* 基本の文字色 */
+  font-weight: bold; /* 太字 */
+  transition: color 0.3s ease; /* カラーアニメーション */
+  border-radius: 15px;      /* 角丸 */
+  padding: 10px;            /* 内側の余白 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 軽い影を追加 */
+  border: 1px solid #414141; /* 微妙な境界線 */
+}
+
+/* ホバー時のテキスト部分 */
+.card a:hover .card-text {
+  color: grey; /* ホバー時に色を変更 */
+}
+
+
 
 /* シングルページ */
 .title-section {
