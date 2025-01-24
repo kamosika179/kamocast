@@ -1,6 +1,6 @@
 {{ define "main" }}
   <!-- セクション(ポッドキャスト番組の紹介) -->
-  <div class="container title-section my-3">
+  <div class="container text-break title-section my-3">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
   </div>
@@ -24,7 +24,7 @@
             {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
             {{ $dateHuman := .Date | time.Format ":date_long" }}
             <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-            <div class="pt-3">
+            <div class="pt-3 text-break">
               {{ .Params.description | truncate 100 }}
             </div>
           </div>
