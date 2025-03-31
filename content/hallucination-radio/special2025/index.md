@@ -1,5 +1,5 @@
 +++
-date = '2025-04-01T06:38:03+09:00'
+date = '2025-04-01T06:35:03+09:00'
 draft = false
 title = '【ハルシネラジオ２周年記念！】ハルシネラジオアップデート！！'
 audioUrl = 'output.opus'
@@ -19,3 +19,4 @@ https://www.forrexlapis.win/game/HalluciRadio_RTA/
 '''
 +++
 
+ここに書かないとダメなのか？
