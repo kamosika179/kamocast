@@ -4,6 +4,7 @@ draft = false
 title = '【ハルシネラジオ２周年記念！】ハルシネラジオアップデート！！'
 audioUrl = 'output.opus'
 audioLength = '18:35'
+podcastImage = 'top.jpg'
 description = '''
 
 聞き直すたびに、体が熱くなって頭がクラクラする・・・
